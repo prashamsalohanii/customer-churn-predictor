@@ -2,8 +2,6 @@
 
 An ML-powered web application that predicts whether a customer will leave a telecom company. Enter customer details and get instant churn prediction with probability score and feature importance chart.
 
-
-
 ##  What It Does
 
 - Enter customer information like tenure, contract type, services used, and monthly charges
@@ -11,8 +9,6 @@ An ML-powered web application that predicts whether a customer will leave a tele
 - Get instant prediction with churn probability gauge
 - See top 10 factors affecting churn decision
 - Get retention suggestions if customer is likely to churn
-
----
 
 ## Features
 
@@ -22,8 +18,6 @@ An ML-powered web application that predicts whether a customer will leave a tele
 -  Retention suggestions for at-risk customers
 -  Fast predictions using pre-trained model (.pkl file)
 -  Clean 3-column Streamlit UI
-
----
 
 ## Model Performance
 
@@ -35,7 +29,6 @@ An ML-powered web application that predicts whether a customer will leave a tele
 | Training samples | ~5,600 |
 | Test samples | ~1,400 |
 
----
 
 ##  Tech Stack
 
@@ -48,7 +41,6 @@ An ML-powered web application that predicts whether a customer will leave a tele
 | Plotly | Interactive charts |
 | Pickle | Model serialization |
 
----
 
 ##  Installation & Setup
 
