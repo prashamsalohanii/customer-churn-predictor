@@ -1,15 +1,10 @@
-# 📊 Customer Churn Predictor
+# Customer Churn Predictor
 
 An ML-powered web application that predicts whether a customer will leave a telecom company. Enter customer details and get instant churn prediction with probability score and feature importance chart.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-ML-orange?style=flat-square)
-![RandomForest](https://img.shields.io/badge/Random_Forest-Classifier-green?style=flat-square)
 
----
 
-## 🎯 What It Does
+##  What It Does
 
 - Enter customer information like tenure, contract type, services used, and monthly charges
 - Click **Predict Churn** 
@@ -19,18 +14,18 @@ An ML-powered web application that predicts whether a customer will leave a tele
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🤖 Random Forest ML model trained on 7,000+ real customer records
-- 📊 Interactive churn probability gauge chart
-- 📈 Feature importance visualization
-- 💡 Retention suggestions for at-risk customers
-- ⚡ Fast predictions using pre-trained model (.pkl file)
-- 🎨 Clean 3-column Streamlit UI
+-  Random Forest ML model trained on 7,000+ real customer records
+-  Interactive churn probability gauge chart
+-  Feature importance visualization
+-  Retention suggestions for at-risk customers
+-  Fast predictions using pre-trained model (.pkl file)
+-  Clean 3-column Streamlit UI
 
 ---
 
-## 📸 Model Performance
+## Model Performance
 
 | Metric | Score |
 |--------|-------|
@@ -42,7 +37,7 @@ An ML-powered web application that predicts whether a customer will leave a tele
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -55,7 +50,7 @@ An ML-powered web application that predicts whether a customer will leave a tele
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 ```bash
