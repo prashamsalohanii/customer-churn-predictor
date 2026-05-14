@@ -1,4 +1,8 @@
-# Customer Churn Predictor
+
+
+## Live App
+https://customer-churn-predictor-aaibfxsatfd2jemlukgzeg.streamlit.app/
+## Customer Churn Predictor
 
 An ML-powered web application that predicts whether a customer will leave a telecom company. Enter customer details and get instant churn prediction with probability score and feature importance chart.
 
@@ -71,4 +75,4 @@ This creates churn_model.pkl and feature_names.pkl
 streamlit run app.py
 ```
 
-### 6. Open browser
+
